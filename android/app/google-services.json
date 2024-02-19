@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "868928086262",
+    "project_id": "wazzi-83f40",
+    "storage_bucket": "wazzi-83f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868928086262:android:0223a8129ab1bae1580cd7",
+        "android_client_info": {
+          "package_name": "com.example.wazzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868928086262-irfa0e8ogba20viau0ooqd4ia9ujue4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wazzi",
+            "certificate_hash": "76b51bcfb2f51e927d055be606ee376d4d4b0f77"
+          }
+        },
+        {
+          "client_id": "868928086262-vc6ejjmanegheuc1ngpbqe11leh1c5o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfBO2Fjyj1iSxWSRCHfcqPqt9fZ8JOurQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868928086262-vc6ejjmanegheuc1ngpbqe11leh1c5o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
